@@ -104,14 +104,14 @@ IGNORE_PATTERNS = {
 ```txt
 .
 ├── src/
-│ ├── controllers/
-│ │ └── main.py
-│ ├── models/
-│ │ └── user.py
-│ └── utils/
-│ └── helpers.py
+│   ├── controllers/
+│   │   └── main.py
+│   ├── models/
+│   │   └── user.py
+│   └── utils/
+│   └── helpers.py
 ├── tests/
-│ └── test_main.py
+│   └── test_main.py
 ├── README.md
 └── requirements.txt
 ```
